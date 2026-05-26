@@ -15,7 +15,49 @@
 - Typical print speeds: 50–60 mm/s
 - Standard nozzle configuration with no enclosure modifications
 
+---
+
+## Printer Information & Hardware
+
+### Extruder
+
+| Front View | Rear View |
+|---|---|
+| ![Extruder Front](images/extruder_front.jpg) | ![Extruder Back](images/extruder_back.jpg) |
+
+---
+
+### Motor / Hardware Information
+
+![Motor Info](images/motor_info.jpg)
+
+---
+
+### Printer Version Information
+
+![Version Information](images/version_pic.jpg)
+
+---
+
+## Firmware / Support Notes
+
+The QIDI X-MAX I is an older printer model, but firmware updates and support resources are still available from QIDI support.
+
+### Support Contacts
+- `linda@qd3dprinter.com`
+- `sophia@qd3dprinter.com`
+
+### Warranty / After-Sales Support Requirements
+Valid proof of purchase may be required, including:
+- Order number from QIDI or authorized reseller
+- Sales invoice
+- Dated sales receipt
+- Other valid proof of purchase documentation
+
+---
+
 ## Notes
+
 - Individual print folders contain their own dedicated `README.md` files documenting:
   - print settings
   - calibration adjustments
