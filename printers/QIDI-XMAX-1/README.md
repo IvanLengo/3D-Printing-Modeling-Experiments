@@ -8,20 +8,24 @@
 - PLA
 
 ## Overview of Typical Settings
-- Nozzle: 0.4 mm
-- Layer height: 0.2 mm (0.12 mm not really tested)
-- Bed temperature: 55-65°C
-- Printing temperature: 185-200°C
+- Nozzle size: 0.4 mm
+- Layer height: 0.2 mm (`0.12 mm` not extensively tested)
+- Bed temperature: 55–65°C
+- Printing temperature: 185–200°C
+- Typical print speeds: 50–60 mm/s
+- Standard nozzle configuration with no enclosure modifications
 
-## Findings
-- 
--
-- 
+## Notes
+- Individual print folders contain their own dedicated `README.md` files documenting:
+  - print settings
+  - calibration adjustments
+  - observed defects/issues
+  - print quality findings
+  - images and final results
 
-## Calibration Prints
-- Benchy
-- FDM test
-
-## Known Limitations
-- 
-- 
+- Main focus areas include:
+  - print optimization
+  - dimensional accuracy
+  - overhang performance
+  - ringing reduction
+  - slicer experimentation
