@@ -15,6 +15,7 @@
 - Typical print speeds: 50–60 mm/s
 - Standard nozzle configuration with no enclosure modifications
 
+NOTE: checkout FDM and benchy for benchmark
 ---
 
 ## Printer Information & Hardware
