@@ -50,26 +50,21 @@ PLA
 
 ---
 
-## Notes
+## Notes / Observed Issues
 
 - Focused on stable surface quality and reliable bridging.
 - Recalibration was needed for dimensional accuracy and hole tolerances.
 - Overhang artifacts are still visible around the curved door-frame arc section of the Benchy model.
 - Minor ringing/ghosting artifacts are consistently present on outer walls.
-
----
-
-## Observed Issues
-
 - Slight stringing near roof section
-- Minor ringing on side walls
-- Overhang quality acceptable
 
 ---
 
-## Findings
-
-Reducing nozzle temperature improved stringing noticeably.
+## Comment
+- Print feels structurally solid and mechanically stable.
+- Personal overall quality rating: **7.5 / 10**
+- Overhang issues are present but relatively minor.
+- Ringing/ghosting artifacts remain visibly noticeable on outer walls.
 
 ---
 
